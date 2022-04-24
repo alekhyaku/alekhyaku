@@ -3,7 +3,7 @@
 My name is Alekhya Kuchimanchi, I am currently a sophomore undergraduate student at the University of Texas at Austin studying computer science. 
 I do research at UT Austin with the Learning Agents Research Group and currently I am working on a project called Spot making Social Body Language. I am also a peer mentor for the Autonomous Robotics Freshman Research Inititiative stream. I have experience working with Boston Dynamics' Spot, Microsoft's Azure Kinect camera, and a simulated Darwin-OP.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaku)](https://github.com/alekhyaku/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaku&langs_count=8)](https://github.com/alekhyaku/github-readme-stats)
 <!--
 **alekhyaku/alekhyaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
