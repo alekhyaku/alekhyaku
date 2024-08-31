@@ -1,6 +1,6 @@
 ### Hello, I am Alekhya 👋
 
-My name is Alekhya Kuchimanchi, and I am currently a senior undergraduate student at the University of Texas at Austin studying computer science. 
+My name is Alekhya Kuchimanchi, and I am currently a graduate student at the University of Texas at Austin pursuing a Master's in computer science. 
 I do research at UT Austin with the Learning Agents Research Group and I was also a peer mentor for the Autonomous Robotics Freshman Research Inititiative stream. I have worked with Boston Dynamics' Spot, Microsoft's Azure Kinect camera, and a simulated Darwin-OP humanoid robot for my research experience. 
 Some languages I have experience programming in are: C++, Swift, Java, C, and Python. I am also currently learning React, HTML, Javascript, and CSS.
 <!--
