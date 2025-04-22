@@ -1,11 +1,9 @@
+<!--
+**alekhyaku/alekhyaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hello, I am Alekhya 👋
 
 My name is Alekhya Kuchimanchi, and I am currently a graduate student at the University of Texas at Austin pursuing a Master's in computer science. 
-I do research at UT Austin with the Learning Agents Research Group and I was also a peer mentor for the Autonomous Robotics Freshman Research Inititiative stream. I have worked with Boston Dynamics' Spot, Microsoft's Azure Kinect camera, and a simulated Darwin-OP humanoid robot for my research experience. 
-Some languages I have experience programming in are: C++, Swift, Java, C, and Python. I am also currently learning React, HTML, Javascript, and CSS.
-<!--
-**alekhyaku/alekhyaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I previously did research at UT Austin with the Learning Agents Research Group and I was also a peer mentor for the Autonomous Robotics Freshman Research Inititiative stream. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
